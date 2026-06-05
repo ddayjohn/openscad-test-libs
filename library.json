@@ -1,0 +1,24 @@
+[
+  {
+    "name": "screw",
+    "description": "This is screw",
+    "thumbnail": "screw.png",
+    "file": "screw.scad",
+    "author": "John",
+    "version": "1.0",
+    "license": "MIT",
+     "category": "MCAD-fasteners"
+  }
+  , 
+  {
+   
+    "name": "Electornics Box",
+    "description": "Electronics box",
+    "thumbnail": "elecbox.png",
+    "file": "elecbox.scad",
+    "author": "John",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "MCAD-box"
+  }
+]
