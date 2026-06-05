@@ -1,0 +1,52 @@
+[
+  {
+    "name": "screw",
+    "description": "A simple metric screw with slotted head",
+    "thumbnail": "screw.png",
+    "file": "screw.scad",
+    "author": "ddayjohn",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "fasteners"
+  },
+  {
+    "name": "gear",
+    "description": "Simple spur gear with configurable teeth count",
+    "thumbnail": "gear.png",
+    "file": "gear.scad",
+    "author": "ddayjohn",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "mechanical"
+  },
+  {
+    "name": "wall_panel",
+    "description": "Architectural wall panel with optional door cutout",
+    "thumbnail": "wall_panel.png",
+    "file": "wall_panel.scad",
+    "author": "ddayjohn",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "architectural"
+  },
+  {
+    "name": "enclosure",
+    "description": "Project enclosure box with mounting posts",
+    "thumbnail": "enclosure.png",
+    "file": "enclosure.scad",
+    "author": "ddayjohn",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "electronic"
+  },
+  {
+    "name": "rounded_box",
+    "description": "Utility module for creating rounded boxes using hull",
+    "thumbnail": "rounded_box.png",
+    "file": "rounded_box.scad",
+    "author": "ddayjohn",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "tools"
+  }
+]
